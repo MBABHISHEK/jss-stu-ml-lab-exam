@@ -23,8 +23,8 @@ Write a program to implement Alpha-beta pruning algorithm.
 
 9	Write a program to perform agglomerative clustering based on single-linkage, complete-linkage criteria.
 
-10	Write a program to develop a decision tree classifier based on weather forecasting dataset.
+10	Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.
 
-11	Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.
+11	Write a Program to develop simple single layer perceptron to implement AND, OR Boolean functions.
 
-12	Write a Program to develop simple single layer perceptron to implement AND, OR Boolean functions.
+12	Write a Program to develop simple Multi layer perceptron to implement AND-NOT,XOR Boolean functions.
